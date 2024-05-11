@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://i.ibb.co/THXzdKP/Divya-Kaurani-1.gif"  />
+  <img  src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715434841/jxq11cuo12qbkdxi9fyx.gif"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">📍I reside in Ahmedabad.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">📍I reside in Ahmedabad.<br><br>- 🔭 Specialized in Mern Stack<br>- 📈 I'm currently learning Devops<br>- 👩‍💻 Check my projects on https://divyakaurani.vercel.app/</p> <br>📮Mail me : auraniivya@gmail.com
 
 ###
 
