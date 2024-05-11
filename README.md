@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co/THXzdKP/Divya-Kaurani-1.gif"  />
+  <img  src="https://i.ibb.co/THXzdKP/Divya-Kaurani-1.gif"  />
 </div>
 
 ###
