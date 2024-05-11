@@ -72,9 +72,18 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="gcp logo"  />
+  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" height="40" alt="babel logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" height="40" alt="puppeteer logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+
   
+
 </div>
 <h1 align="left">Hey 👋 What's up?</h1>
 
