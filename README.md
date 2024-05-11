@@ -27,7 +27,7 @@
 ###
 
 
-<p align="left"> <a href="https://twitter.com/d_kaurani61801" target="blank"><img src="https://img.shields.io/twitter/follow/mayankyadav_17?logo=twitter&style=for-the-badge" alt="d_kaurani61801" /></a> </p>
+<p align="left"> </p>
 
 - 📍I reside in **Ahmedabad.**
 
