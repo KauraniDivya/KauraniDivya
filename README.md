@@ -26,8 +26,30 @@
 
 ###
 
-<p align="left">📍I reside in Ahmedabad.<br> 🔭 Specialized in Mern Stack <br> 📈 I'm currently learning Devops <br>- 👩‍💻 Check my projects on https://divyakaurani.vercel.app/</p> <br>📮Mail me : kauraniivya@gmail.com
 
+<p align="left"> <a href="https://twitter.com/d_kaurani61801" target="blank"><img src="https://img.shields.io/twitter/follow/mayankyadav_17?logo=twitter&style=for-the-badge" alt="d_kaurani61801" /></a> </p>
+
+- 📍I reside in **Ahmedabad.**
+
+- 🔭 Specialized in Mern Stack
+
+- 📈 I'm currently learning Devops
+
+- 👩‍💻 Check my projects on https://divyakaurani.vercel.app/
+
+- 📮Mail me : kauraniivya@gmail.com
+
+- 📄 Resume : https://drive.google.com/file/d/1fwCf30EciDvHFFCBuoQxY5x8j_i9dxbw/view?usp=sharing
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/d_kaurani61801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_kaurani61801" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/divyakaurani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyakaurani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/divya_kaurani20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_kaurani20" height="30" width="40" /></a>
+<a href="https://hashnode.com/@DK2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@DK2003" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSdls-ZlC1jv5tWtJDYIcqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+
+</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
