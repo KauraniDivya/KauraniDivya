@@ -15,13 +15,14 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kauranidivya" alt="kauranidivya" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/d_kaurani61801" target="blank"><img src="https://img.shields.io/twitter/follow/d_kaurani61801?logo=twitter&style=for-the-badge" alt="d_kaurani61801" /></a> </p>
 
 ###
 
 <h1 align="center">Hi there,👋 Divya Kaurani here </h1>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kauranidivya" alt="kauranidivya" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/d_kaurani61801" target="blank"><img src="https://img.shields.io/twitter/follow/d_kaurani61801?logo=twitter&style=for-the-badge" alt="d_kaurani61801" /></a> </p>
 
 ###
 
