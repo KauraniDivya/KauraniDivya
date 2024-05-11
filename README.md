@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">📍I reside in Ahmedabad.<br><br>- 🔭 Specialized in Mern Stack<br>- 📈 I'm currently learning Devops<br>- 👩‍💻 Check my projects on https://divyakaurani.vercel.app/</p> <br>📮Mail me : auraniivya@gmail.com
+<p align="left">📍I reside in Ahmedabad.<br> 🔭 Specialized in Mern Stack <br> 📈 I'm currently learning Devops <br>- 👩‍💻 Check my projects on https://divyakaurani.vercel.app/</p> <br>📮Mail me : kauraniivya@gmail.com
 
 ###
 
