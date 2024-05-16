@@ -111,7 +111,7 @@
   
 
 </div>
-<h2 align="left">To know more about me, check out my <a href="https://www.google.com/search?q=Divya+Kaurani&sca_esv=f89e5e6047e0c685&sca_upv=1&sxsrf=ADLYWIIKwq5wQEbwSpG-srBIJ2wa13v3dw%3A1715895205180&ei=pXtGZp3VCvO2vr0P0o2Z2Ak&ved=0ahUKEwjdu7Thj5OGAxVzm68BHdJGBpsQ4dUDCBA&uact=5&oq=Divya+Kaurani&gs_lp=Egxnd3Mtd2l6LXNlcnAiDURpdnlhIEthdXJhbmkyBBAjGCcyBBAjGCcyBBAjGCcyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRImTxQrQtYqThwAngAkAEAmAHVAqABjQmqAQcwLjIuMi4xuAEDyAEA-AEBmAIGoALmCcICBxAjGLACGCeYAwCIBgGSBwcxLjEuMy4xoAedJA&sclient=gws-wiz-serp" >Google </a>.</h2>
+<h2 align="left">To know more about me, check out my <a href="https://divyakaurani.vercel.app/" >Portfolio </a> <a href="https://www.google.com/search?q=Divya+Kaurani&sca_esv=f89e5e6047e0c685&sca_upv=1&sxsrf=ADLYWIIKwq5wQEbwSpG-srBIJ2wa13v3dw%3A1715895205180&ei=pXtGZp3VCvO2vr0P0o2Z2Ak&ved=0ahUKEwjdu7Thj5OGAxVzm68BHdJGBpsQ4dUDCBA&uact=5&oq=Divya+Kaurani&gs_lp=Egxnd3Mtd2l6LXNlcnAiDURpdnlhIEthdXJhbmkyBBAjGCcyBBAjGCcyBBAjGCcyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRImTxQrQtYqThwAngAkAEAmAHVAqABjQmqAQcwLjIuMi4xuAEDyAEA-AEBmAIGoALmCcICBxAjGLACGCeYAwCIBgGSBwcxLjEuMy4xoAedJA&sclient=gws-wiz-serp" >Google </a>.</h2>
 
 
 
