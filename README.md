@@ -111,7 +111,7 @@
   
 
 </div>
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">To know more about me, check out my <a href="https://divyakaurani.vercel.app/">portfolio </a> or search it over Google.</h1>
 
 
 
