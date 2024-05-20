@@ -115,7 +115,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="c++ logo"  />
   
 <br /><br />
-<div align="center" > <a href="https://github.com/marketplace/actions/auto-assign-pr-and-issues"><img src="https://github-profile-trophy.vercel.app/?username=kauranidivya&row=3&column=3&theme=onedark" alt="Utsav stats" /></a> </div> <br/> <br/>
+<div align="center" > <a href="https://github.com/marketplace/actions/auto-assign-pr-and-issues"><img src="https://github-profile-trophy.vercel.app/?username=kauranidivya&row=4&column=3&theme=darkhub" alt="Utsav stats" /></a> </div> <br/> <br/>
 
 
 
