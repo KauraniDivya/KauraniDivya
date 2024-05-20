@@ -115,6 +115,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="c++ logo"  />
   
 <br /><br />
+[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauranidivya&show_icons=true&theme=radical)]()
 
 
 [![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauranidivya&show_icons=true&theme=transparent)](https://github.com/KauraniDivya/)
