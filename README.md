@@ -2,6 +2,8 @@
   <img  src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715434841/jxq11cuo12qbkdxi9fyx.gif"  />
 </div>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kauranidivya" alt="kauranidivya" /></a> </p>
 ###
 
 <div align="center">
@@ -107,7 +109,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="c++ logo"  />
+  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauranidivya&show_icons=true&locale=en&layout=compact" alt="kauranidivya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kauranidivya&show_icons=true&locale=en" alt="kauranidivya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kauranidivya&" alt="kauranidivya" /></p>
   
 
 </div>
