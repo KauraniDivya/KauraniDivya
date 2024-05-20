@@ -115,6 +115,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="c++ logo"  />
   
 <br /><br />
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauranidivya&show_icons=true&locale=en&layout=compact" alt="kauranidivya" /></p>
+<br/>
 [![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauranidivya&show_icons=true&theme=transparent)](https://github.com/KauraniDivya/)
 
 [![Divya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kauranidivya&theme=react&point=24292e&area=true&hide_border=true)](https://github.com/KauraniDivya/)
