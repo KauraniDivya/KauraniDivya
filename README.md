@@ -117,7 +117,7 @@
 <br /><br />
 [![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauranidivya&show_icons=true&theme=transparent)](https://github.com/KauraniDivya/)
 
-[![Divya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kauranidivya&bg_color=transparent&color=blue&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/KauraniDivya/)
+[![Divya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kauranidivya&theme=react&point=24292e&area=true&hide_border=true)](https://github.com/KauraniDivya/)
 
 </div>
 <h2 align="left">To know more about me, check out my <a href="https://divyakaurani.vercel.app/" >Portfolio </a> or <a href="https://www.google.com/search?q=Divya+Kaurani&sca_esv=f89e5e6047e0c685&sca_upv=1&sxsrf=ADLYWIIKwq5wQEbwSpG-srBIJ2wa13v3dw%3A1715895205180&ei=pXtGZp3VCvO2vr0P0o2Z2Ak&ved=0ahUKEwjdu7Thj5OGAxVzm68BHdJGBpsQ4dUDCBA&uact=5&oq=Divya+Kaurani&gs_lp=Egxnd3Mtd2l6LXNlcnAiDURpdnlhIEthdXJhbmkyBBAjGCcyBBAjGCcyBBAjGCcyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRImTxQrQtYqThwAngAkAEAmAHVAqABjQmqAQcwLjIuMi4xuAEDyAEA-AEBmAIGoALmCcICBxAjGLACGCeYAwCIBgGSBwcxLjEuMy4xoAedJA&sclient=gws-wiz-serp" >Google </a>.</h2>
