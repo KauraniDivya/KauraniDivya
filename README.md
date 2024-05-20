@@ -116,6 +116,8 @@
   
 <br /><br />
 [![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauranidivya&show_icons=true&theme=transparent)](https://github.com/KauraniDivya/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauranidivya&layout=compact)
   
 
 </div>
