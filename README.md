@@ -115,11 +115,11 @@
 <br /><br />
 <div align="center" > <a href="https://github.com/marketplace/actions/auto-assign-pr-and-issues"><img src="https://github-profile-trophy.vercel.app/?username=kauranidivya&row=4&column=3&theme=darkhub" alt="Utsav stats" /></a> </div> <br/> <br/>
 
-
+<div align="center">
 
 [![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauranidivya&show_icons=true&theme=transparent)](https://github.com/KauraniDivya/)
 
-<div align="center">
+
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=kauranidivya&theme=tokyonight-duo)]()
   
