@@ -119,6 +119,12 @@
 
 [![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauranidivya&show_icons=true&theme=transparent)](https://github.com/KauraniDivya/)
 
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kauranidivya&theme=holi-theme)]()
+  
+</div>
+
 [![Divya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kauranidivya&theme=react&point=24292e&area=true&hide_border=true)](https://github.com/KauraniDivya/)
 
 </div>
