@@ -10,8 +10,9 @@
 <a href="https://www.youtube.com/channel/UCSdls-ZlC1jv5tWtJDYIcqw">  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
 <a href="https://twitter.com/d_kaurani61801">   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> </a>
 </div>
-
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=kauranidivya&color=blue)
+</div>
 ###
 
 <h1 align="center">Hi there,👋 Divya Kaurani here </h1>
